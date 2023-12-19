@@ -1,6 +1,6 @@
 {
   "name": "@tecsomobi/electron-winstaller",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Module to generate Windows installers for Electron apps",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
